@@ -1,2 +1,2 @@
 # Batatabit
-Pagina de inicio de la empresa Batatabit enfocada en criptomonedas
+Batatabit es una pagina enfocada en la compra y venta de las principales cripomonedas, aqui encontraras el diseño que preparé para la pagina
